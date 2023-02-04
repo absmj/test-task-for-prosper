@@ -1,0 +1,37 @@
+:root {
+  --test-task-color-1: #2C7EF9;
+  --test-task-color-2: #fff;
+  --test-task-color-3: #19CC95;
+  --test-task-color-4: #253858;
+  --test-task-color-5: #8258DF;
+  --test-task-color-6: #efefef;
+  --test-task-color-7: #324b75;
+  --test-task-color-8: #16a57a;
+  --test-task-color-9: #606266;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  position: relative;
+  font-weight: normal;
+}
+
+body {
+  min-height: 100vh;
+  color: var(--color-text);
+  background: var(--color-background);
+  transition: color 0.5s, background-color 0.5s;
+  line-height: 1.6;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: var(--test-task-color-2);
+}

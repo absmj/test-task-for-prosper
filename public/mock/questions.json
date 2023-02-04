@@ -1,0 +1,29 @@
+[{
+    "lesson_id": 1,
+    "questions": [
+        {
+            "id": 1,
+            "title": "Müştərini və layihəni başa düşmək üçün dizayner __________ mərhələsini başlamalıdır",
+            "variants": {
+                "a": "Müəyyən etmə",
+                "b": "Dizayn vermə",
+                "c": "Dəyişmə",
+                "d": "Araşdırma"
+            },
+            "selected": null,
+            "correct": "d"
+        },
+        {
+            "id": 2,
+            "title": "Müştərini və layihəni başa düşmək üçün dizayner _________________ mərhələsini başlamalıdır_2",
+            "variants": {
+                "a": "Müəyyən etmə_2",
+                "b": "Dizayn vermə_2",
+                "c": "Dəyişmə_2",
+                "d": "Araşdırma_2"
+            },
+            "selected": null,
+            "correct": "d"
+        }
+    ]
+}]

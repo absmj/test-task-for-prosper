@@ -1,0 +1,105 @@
+[{
+    "id": 1,
+    "name": "Dizayn",
+    "sections": [
+        {
+            "id": 1,
+            "title": "Giriş",
+            "paragraphs": [
+                {
+                    "id": 1,
+                    "title": "Kursla tanışlıq",
+                    "type": 1,
+                    "deadline": "12.04~18:00",
+                    "isActive": true,
+                    "isReaded": false
+                },
+                {
+                    "id": 2,
+                    "title": "Dizayn proqramları ilə tanışlıq",
+                    "type": 2,
+                    "deadline": "12.04~18:00|12.04~20:00",
+                    "isActive": false,
+                    "isReaded": false
+                },
+                {
+                    "id": 3,
+                    "title": "Dizaynın əsasları üzrə aralıq imtahanı",
+                    "type": 3,
+                    "deadline": "12.04~18:00|13.04~17:30",
+                    "isActive": false,
+                    "isReaded": false
+                },
+                {
+                    "id": 4,
+                    "title": "Dizaynın əsasları üzrə oxu materialı",
+                    "type": 4,
+                    "deadline": "12.04~18:00",
+                    "isActive": false,
+                    "isReaded": false
+                }
+            ],
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "title": "Dizaynın əsasları",
+            "paragraphs": [
+            ],
+            "isActive": false
+        },
+        {
+            "id": 3,
+            "title": "Figmadan istifadə",
+            "paragraphs": [
+            ],
+            "isActive": false
+        },
+        {
+            "id": 4,
+            "title": "Bravo marketdə 4 günlük təcrübə məşğələsi",
+            "paragraphs": [
+                {
+                    "id": 1,
+                    "title": "Adobe Photoshop-da işləmə üzrə praktik məşğələ",
+                    "type": 5,
+                    "deadline": "20.04~18:00|20.04~20:00",
+                    "isActive": false,
+                    "isReaded": false
+                },
+                {
+                    "id": 2,
+                    "title": "Adobe Illustrator-da işləmə üzrə praktik məşğələ",
+                    "type": 5,
+                    "deadline": "21.04~18:00|21.04~20:00",
+                    "isActive": false,
+                    "isReaded": false
+                },
+                {
+                    "id": 3,
+                    "title": "Figma-da səhifələrin hazırlanması",
+                    "type": 5,
+                    "deadline": "22.04~18:00|22.04~20:00",
+                    "isActive": false,
+                    "isReaded": false
+                },
+                {
+                    "id": 4,
+                    "title": "Çapa materialların hazırlığı",
+                    "type": 5,
+                    "deadline": "23.04~18:00",
+                    "isActive": false,
+                    "isReaded": false
+                }
+            ],
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "title": "İmtahan",
+            "paragraphs": [
+            ],
+            "isActive": false
+        }
+    ]
+}]
